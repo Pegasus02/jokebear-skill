@@ -19,7 +19,7 @@ npx skills add Pegasus02/jokebear-skill
 ### 手动安装
 
 ```bash
-git clone https://github.com/Pegasus02/jokebear-skill.git ~/.openclaw/workspace/skills/jokebear-skill
+git clone https://github.com/Pegasus02/jokebear-skill.git ~/.openclaw/skills/jokebear-skill
 # 或
 git clone https://github.com/Pegasus02/jokebear-skill.git ~/.claude/skills/jokebear-skill
 ```
